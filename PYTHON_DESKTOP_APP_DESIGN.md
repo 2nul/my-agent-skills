@@ -1,7 +1,7 @@
 ---
 name: python-desktop-app-design-skill-by-2nul
-description: Design and implement distinctive, production-quality user interfaces for Python desktop applications. Use deliberate visual direction, strong information hierarchy, consistent interaction patterns, and restrained visual personality. Optimized for coding agents working on existing Python desktop codebases.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+description: Design and implement distinctive, production-quality user interfaces for Python desktop applications. Use deliberate visual direction, strong information hierarchy, consistent interaction patterns, and restrained visual personality. Optimized for coding agents working on existing Python desktop codebases. | By 2nul
+---
 
 # Frontend Design
 
