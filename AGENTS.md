@@ -1,5 +1,7 @@
-```markdown
-# AGENTS.md
+---
+name: my-agent-skill
+description: This skill is suitable for standard projects. | By 2nul
+---
 
 ## 1. Core Operating Directives
 
@@ -131,6 +133,5 @@ You must execute every development task in the following exact chronological seq
 * **Fail-Safe Principle:** On any unhandled exception or environmental error, fail securely. Invalidate the current session, roll back active state mutations, log detailed telemetry internally, and output an uninformative, non-leaking generalized status code to the user.
 * **Complete Code Generation:** Never abbreviate responses with "rest of the code goes here" comments. Output the full, complete, deployable file structure down to the last closing bracket.
 
-```
 
 ```
